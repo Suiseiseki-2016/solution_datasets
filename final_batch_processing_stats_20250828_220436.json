@@ -1,0 +1,15 @@
+{
+  "total_problems": 7261,
+  "standardized_problems": 7566,
+  "enhanced_problems": 7410,
+  "local_datasets_problems": 102,
+  "crawler_enhanced_data_problems": 0,
+  "common_problems": 7261,
+  "processed_count": 7261,
+  "failed_count": 0,
+  "success_rate": 1.0,
+  "start_time": "2025-08-28T18:02:21.131534",
+  "end_time": "2025-08-28T22:04:36.259662",
+  "processing_time": "4:02:15.128128",
+  "failed_problems": []
+}

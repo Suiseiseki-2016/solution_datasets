@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "created_at": "20250828_201056",
+    "format": "wenjiajia_v1.0_incremental",
+    "batch_size": 100
+  },
+  "batches": [
+    {
+      "batch_number": 38,
+      "filename": "wenjiajia_batch_0038_20250828_201056.json",
+      "problem_count": 100,
+      "created_at": "2025-08-28T20:10:56.483152"
+    }
+  ]
+}
